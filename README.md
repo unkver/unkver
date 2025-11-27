@@ -1,1 +1,3 @@
-[![Langs used](https://github-readme-stats.vercel.app/api/top-langs?username=unkver&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/unkver)
+### Let's be honest, nobody cares about your profile README.
+
+Trying to stay productive and use my time wisely :_) 
